@@ -3,21 +3,22 @@
 
 # Menu
 menu.title.bg: 				        Flat Solid
-menu.title.bg.color: 				#282828
+menu.title.bg.color: 				#363636
 menu.title.text.color:                          #bc4b4f
 menu.title.text.justify: 	                Center
-menu.border.width: 			        4
-menu.border.color:                              #323232
-menu.overlap.x: 		                -10
+menu.border.width: 			        12
+menu.border.color:                              #424242
+menu.overlap.x: 		                -16
 menu.overlap.y:				        0
 menu.items.bg: 				        Flat Solid
-menu.items.bg.color: 				#323232
+menu.items.bg.color: 				#424242
 menu.items.text.color:                          #a5a9b3
 menu.items.justify:                             left
 menu.items.disabled.text.color:	                #535C5C
 menu.items.active.bg: 			        Flat Solid
 # menu.items.active.bg.color: 		        #bc4b4f
-menu.items.active.bg.color: 		        #2a82a5
+# menu.items.active.bg.color: 		        #2a82a5
+menu.items.active.bg.color: 		        #888888
 menu.items.active.text.color: 	                #e7ecf0
 menu.separator.width:			        1
 menu.separator.padding.width:	                8
