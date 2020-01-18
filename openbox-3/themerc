@@ -18,7 +18,7 @@ menu.items.disabled.text.color:	                #535C5C
 menu.items.active.bg: 			        Flat Solid
 # menu.items.active.bg.color: 		        #bc4b4f
 # menu.items.active.bg.color: 		        #2a82a5
-menu.items.active.bg.color: 		        #888888
+menu.items.active.bg.color: 		        #606060
 menu.items.active.text.color: 	                #e7ecf0
 menu.separator.width:			        1
 menu.separator.padding.width:	                8
